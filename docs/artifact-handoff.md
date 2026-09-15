@@ -1,7 +1,7 @@
 # 产物留存与交接
 
 交付前端代码、实现说明及真实验证结果；计划和任务表按实际需要生成，已有且交接需要的也要带上。小改动可在回复中说明，不强建多份文档。
-具体要求、完整模板和角色目录见[本职 Skill](../skills/sprite-frontend-developer-ui/SKILL.md)。
+具体要求、完整模板和角色目录见[交付与留存](../skills/sprite-frontend-developer-ui/references/delivery.md)。
 
 上游资料仓库、版本和文件，与本次产物的业务仓库分别选择，可以不同；已有明确选择直接沿用，只问影响当前工作的缺项。上游资料按真实来源路径读取。
 本角色生成的计划、任务清单、实现说明、验证证据及附件统一保存在业务仓库 `docs/frontend-developer/`，可在角色目录下按功能分组，例如 `docs/frontend-developer/<feature-id>/frontend.md`。已有本职产物散落在其他位置时，先读取并保留有效内容，再迁入 `docs/frontend-developer/`，同步文内链接、其他引用及已有索引；遇到同名文件先比较并合并，避免覆盖用户内容。
